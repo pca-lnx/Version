@@ -1,4 +1,14 @@
 {
- "LNX" : "1.0",
- "RedundantController" : "1.0.3.0"
+ "LNX" : {
+    "Version" : "1.0",
+    "Changelog" : []
+ },
+ "RedundantController" : {
+    "Version" : "1.0.4.0",
+    "Changelog" : [ 
+       "improve system performance",
+       "reduce space usage",
+       "fix small update issue"
+    ]
+ }
 }
