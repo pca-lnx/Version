@@ -4,7 +4,7 @@
     "Changelog" : []
  },
  "RedundantController" : {
-    "Version" : "1.0.6.1",
+    "Version" : "1.0.6.2",
     "Changelog" : [ 
        "add notifications",
        "fixed update module"
