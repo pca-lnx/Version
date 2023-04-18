@@ -4,12 +4,13 @@
     "Changelog" : []
  },
  "RedundantController" : {
-    "Version" : "1.0.6.10",
+    "Version" : "1.0.6.11",
     "Changelog" : [ 
        "fixed small bugs",
        "improve overall performance",
        "add restart feature",
-       "add export event log"
+       "add export event log",
+       "add support to SSID"
     ]
  }
 }
