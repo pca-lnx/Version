@@ -6,7 +6,7 @@
                               ]
             },
     "RedundantController":  {
-                                "Version":  "1.0.0.0",
+                                "Version":  "1.0.0.1",
                                 "Changelog":  [
                                                   "fixed small bugs",
                                                   "improved overall performance",
