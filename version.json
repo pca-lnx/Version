@@ -6,7 +6,11 @@
                               ]
             },
     "RedundantController":  {
+<<<<<<< HEAD
                                 "Version":  "C:\\Users\\administrator.PLANETCOMM\\AppData\\Local\\Jenkins\\.jenkins\\workspace\\LnxBuildAndDeploy\u003epowershell .\\extract-version.ps1 -csprojPath C:\\Users\\administrator.PLANETCOMM\\AppData\\Local\\Jenkins\\.jenkins\\workspace\\LnxBuildAndDeploy\\RedundantController\\RedundantController.csproj \r\n1.0.7.14",
+=======
+                                "Version":  "1.0.0.1",
+>>>>>>> 973a75f1fbac7e1c805da3213d907296a02347a5
                                 "Changelog":  [
                                                   "fixed small bugs",
                                                   "improved overall performance",
