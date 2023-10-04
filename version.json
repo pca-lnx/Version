@@ -1,19 +1,17 @@
 {
-    "LNX":  {
-                "Version":  "1.0",
-                "Changelog":  [
-
-                              ]
-            },
-    "RedundantController":  {
-                                "Version":  "1.0.0.1",
-                                "Changelog":  [
-                                                  "fixed small bugs",
-                                                  "improved overall performance",
-                                                  "added restart feature",
-                                                  "added export event log",
-                                                  "added support to SSID",
-                                                  "adjusted UI"
-                                              ]
-                            }
+  "LNX": {
+    "Version": "1.0",
+    "Changelog": []
+  },
+  "RedundantController": {
+    "Version": "org.jenkinsci.plugins.workflow.cps.EnvActionImpl@751601f3:VERSION_NUMBER",
+    "Changelog": [
+      "fixed small bugs",
+      "improved overall performance",
+      "added restart feature",
+      "added export event log",
+      "added support to SSID",
+      "adjusted UI"
+    ]
+  }
 }
