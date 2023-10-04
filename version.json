@@ -4,7 +4,7 @@
     "Changelog": []
   },
   "RedundantController": {
-    "Version": "org.jenkinsci.plugins.workflow.cps.EnvActionImpl@751601f3:VERSION_NUMBER",
+    "Version": "1.1.0",
     "Changelog": [
       "fixed small bugs",
       "improved overall performance",
